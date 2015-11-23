@@ -34,6 +34,12 @@
 	<array>
 		<string>fetch</string>
 		<string>location</string>
+		<string>voip</string>
+		<string>newsstand-content</string>
+		<string>bluetooth-central</string>
+		<string>fetch</string>
+		<string>remote-notification</string>
+		<string>external-accessory</string>
 	</array>
 	<key>UIFileSharingEnabled</key>
 	<true/>
